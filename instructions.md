@@ -29,4 +29,5 @@ If you want to run the cypress tests using iteractive mode run command `npm cy:o
 - https://docs.cypress.io/guides/getting-started/installing-cypress
 - https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test#Add-a-test-file
 - https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+- StackOverflow
 
