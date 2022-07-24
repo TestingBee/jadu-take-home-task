@@ -1,0 +1,25 @@
+{
+  "name": "jadu-take-home-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "dependencies": {
+    "cypress": "^10.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cy:run": "cypress run",
+    "cy:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TestingBee/jadu-take-home-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TestingBee/jadu-take-home-task/issues"
+  },
+  "homepage": "https://github.com/TestingBee/jadu-take-home-task#readme"
+}
