@@ -22,7 +22,7 @@ To run the application clone the repository and run `npm install` from the root 
 
 Once the node modules are installed. Run the command `npm run cy:run` to run cypress tests using CLI.
 
-If you want to run the cypress tests using iteractive mode run command `npm cy:open`
+If you want to run the cypress tests using iteractive mode run command `npm run cy:open`
 
 # Source materials used for reference
 
